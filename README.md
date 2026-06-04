@@ -40,7 +40,7 @@ PostgreSQL + Google Sheets (log y auditoría)
 ---
 ## 📸 Workflow en n8n
 
-![Workflow de creación de remitos](Worflow_creacion_de_remitos.png)
+![Workflow de creación de remitos](Worflow%20creacion%20de%20remitos.png)
 
 ## ⚙️ Stack tecnológico
 
